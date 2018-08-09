@@ -26,4 +26,3 @@ function appendKitten(name) {
   var moreKittens = kittens.concat(more);
   console.log(more)
 }
-

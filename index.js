@@ -17,8 +17,9 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  var howLong = kittens.length
-  console.log(howLong)
-  var moreKittens = kittens.splice(2, 0, "name")
-  return moreKittens;
+  // var howLong = kittens.length
+  // console.log(howLong)
+  // var moreKittens = kittens.splice(2, 0, "name")
+  // return moreKittens;
+  console.log(kittens)
 }

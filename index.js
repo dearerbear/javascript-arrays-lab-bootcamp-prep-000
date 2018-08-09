@@ -22,4 +22,5 @@ function appendKitten(name) {
   // var moreKittens = kittens.splice(2, 0, "name")
   // return moreKittens;
   console.log(kittens)
+
 }
